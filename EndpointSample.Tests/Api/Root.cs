@@ -1,9 +1,5 @@
 using System.Security.Claims;
-using EndpointSample.Tests.Helpers;
-using EndpointsSample;
 using Microsoft.AspNetCore.Authentication;
-using Xunit.Abstractions;
-using static Microsoft.Extensions.DependencyInjection.ServiceDescriptor;
 
 namespace EndpointSample.Tests.Api;
 
